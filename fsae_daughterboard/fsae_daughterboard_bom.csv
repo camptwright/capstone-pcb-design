@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW2,SW1,SW3";"SW_PUSH_6mm_H5mm";3;"SW_Push";;;
+2;"LED3,LED4,LED5";"LED_D5.0mm";3;"LED";;;
+3;"R6,R7,R5";"R_0805_2012Metric";3;"330";;;
+4;"C13,C14,C12";"C_0805_2012Metric";3;"100n";;;
+5;"R8,R10,R9";"R_0805_2012Metric";3;"10k";;;
+6;"J6";"Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical";1;"Conn_02x04_Odd_Even";;;

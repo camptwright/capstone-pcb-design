@@ -1,0 +1,45 @@
+### Footprint positions - created on 2026-03-09T20:54:51-0500 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                                             PosX       PosY       Rot  Side
+C1        C                     C_0805_2012Metric                                                                67.0000   -57.5000    0.0000  top
+C2        22pF                  C_0805_2012Metric                                                                72.0500   -52.5000    0.0000  top
+C3        110nF                 C_0805_2012Metric                                                                62.5000   -61.0000    0.0000  top
+C4        110nF                 C_0805_2012Metric                                                                62.5000   -57.5000    0.0000  top
+C5        C                     C_0805_2012Metric                                                                53.5000   -61.5000    0.0000  top
+C6        C                     C_0805_2012Metric                                                                59.0000   -39.5000    0.0000  top
+C7        C                     C_1210_3225Metric                                                                66.0000   -66.5000    0.0000  top
+C8        C                     C_1210_3225Metric                                                                72.5000   -39.0000    0.0000  top
+C9        C                     C_0805_2012Metric                                                                84.5000   -52.5000    0.0000  top
+C10       110nF                 C_0805_2012Metric                                                                43.5000   -33.5000    0.0000  top
+C11       110nF                 C_0805_2012Metric                                                                60.0000   -33.5000    0.0000  top
+C12       110nF                 C_0805_2012Metric                                                                68.0000   -33.5000    0.0000  top
+C13       10microF              C_0805_2012Metric                                                                78.0000   -52.5000    0.0000  top
+C14       10microF              C_0805_2012Metric                                                                51.5000   -33.5000    0.0000  top
+C21       C                     C_0805_2012Metric                                                                67.0000   -61.0000    0.0000  top
+D1        D_Schottky            D_SMA                                                                            48.0000   -64.0000    0.0000  top
+D2        D_Schottky            D_SMA                                                                            48.0000   -69.5000    0.0000  top
+F1        Fuse                  Fuseholder_Clip-5x20mm_Littelfuse_111_Inline_P20.00x5.00mm_D1.05mm_Horizontal    46.0000   -76.5000    0.0000  top
+J1        Conn_02x20_Odd_Even   Pin_Header_Straight_2x20                                                         62.7700   -27.7700   90.0000  top
+J2        Conn_02x04_Odd_Even   Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical                             73.0000   -72.5000    0.0000  top
+J3        Conn_01x06            PinHeader_1x06_P2.54mm_Vertical                                                  91.5000   -56.5000    0.0000  top
+J4        Screw_Terminal_01x03  TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal                    36.5000   -42.9400  -90.0000  top
+J5        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal                    36.8275   -62.4550  -90.0000  top
+J6        Conn_01x02            PinHeader_1x02_P2.54mm_Vertical                                                  91.5000   -34.7250    0.0000  top
+J7        Conn_01x04            PinHeader_1x04_P2.54mm_Vertical                                                  91.5000   -42.5000    0.0000  top
+JP1       Conn_01x02            PinHeader_1x02_P2.54mm_Vertical                                                  45.0000   -46.6650    0.0000  top
+L1        L                     L_Bourns_SRR1260                                                                 77.5000   -62.5000    0.0000  top
+LED1      LED                   LED_D3.0mm                                                                       81.9600   -36.5000    0.0000  top
+LED2      LED                   LED_D3.0mm                                                                       45.2300   -57.4400    0.0000  top
+R1        330                   R_0805_2012Metric                                                                52.5000   -40.5000    0.0000  top
+R2        330                   R_0805_2012Metric                                                                53.0000   -57.0000    0.0000  top
+R3        120                   R_0805_2012Metric                                                                84.5000   -47.0000    0.0000  top
+R4        10k                   R_0805_2012Metric                                                                76.0875   -33.5000    0.0000  top
+R_FB1     R                     R_0805_2012Metric                                                                57.5000   -57.5000    0.0000  top
+R_FB2     R                     R_0805_2012Metric                                                                57.9125   -61.0000    0.0000  top
+U1        MCP2515-xSO           SOIC-18W_7.5x11.6mm_P1.27mm                                                      63.0000   -48.4400    0.0000  top
+U2        SN65HVD230            SOIC-8_3.9x4.9mm_P1.27mm                                                         75.5250   -45.9050    0.0000  top
+U3        MP1584EN-LF-Z         SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm                                          57.4300   -66.2500    0.0000  top
+Y1        Crystal               Crystal_HC49-4H_Vertical                                                         53.0000   -46.5000  -90.0000  top
+## End

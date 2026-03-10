@@ -1,0 +1,6 @@
+(version 1)
+
+(rule "RPi Header Hole Clearance"
+	(condition "A.Reference == 'J1' && B.Reference == 'J1'")
+	(constraint hole_clearance (min 0.1mm))
+)
