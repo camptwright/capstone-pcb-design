@@ -1,0 +1,47 @@
+Description,Manufacturer Part Number,DigiKey Part Number,Board(s),Per Set,Qty (x5)
+--- RESISTORS (0805 SMD) ---,,,,,
+"330R 5% 0805",RC0805JR-07330RL,311-330ARCT-ND,"Main(R1 R2) + Daughter(R5 R6 R7)",5,25
+"120R 5% 0805",RC0805JR-07120RL,311-120ARCT-ND,"Main(R3)",1,5
+"10K 5% 0805",RC0805JR-0710KL,311-10KARCT-ND,"Main(R4) + Daughter(R8 R9 R10)",4,20
+"100K 1% 0805",RC0805FR-07100KL,311-100KCRCT-ND,"Main(R_FB1)",1,5
+"19.1K 1% 0805",RC0805FR-0719K1L,311-19.1KCRCT-ND,"Main(R_FB2)",1,5
+--- CAPACITORS (SMD) ---,,,,,
+"22pF C0G 50V 0805",CL21C220JBANNNC,1276-1049-1-ND,"Main(C1 C2)",2,10
+"100nF X7R 16V 0805",CL21B104KBCNNNC,1276-1003-1-ND,"Main(C3-C6 C9-C12) + Daughter(C12-C14)",11,55
+"10uF X5R 16V 0805",CL21A106KAYNNNE,1276-1066-1-ND,"Main(C13 C14)",2,10
+"10nF X7R 50V 0805",CL21B103KBANNNC,1276-1015-1-ND,"Main(C21)",1,5
+"22uF X5R 25V 1210",TMK325BJ226KM-P,587-5951-1-ND,"Main(C7)",1,5
+"22uF X5R 10V 1210",CL32A226MOJNNNE,1276-6475-1-ND,"Main(C8)",1,5
+--- ICs ---,,,,,
+"MCP2515-I/SO CAN Controller SOIC-18W",MCP2515-I/SO,MCP2515-I/SO-ND,"Main(U1)",1,5
+"SN65HVD230DR CAN Transceiver SOIC-8",SN65HVD230DR,296-17761-1-ND,"Main(U2)",1,5
+"MP1584EN-LF-Z Buck Converter SOIC-8+EP",MP1584EN-LF-Z,1589-1508-1-ND,"Main(U3)",1,5
+--- DIODES ---,,,,,
+"SS34 Schottky 40V 3A SMA",SS34,SS34FSCT-ND,"Main(D1 D2)",2,10
+--- INDUCTOR ---,,,,,
+"33uH 3.5A Shielded Inductor",SRR1260-330M,SRR1260-330MCT-ND,"Main(L1)",1,5
+--- CRYSTAL ---,,,,,
+"8MHz HC49/U Crystal 20pF",ECS-80-20-4X,X1103-ND,"Main(Y1)",1,5
+--- LEDs ---,,,,,
+"Green LED 3mm THT",WP7113GD,754-1603-ND,"Main(LED1)",1,5
+"Blue LED 3mm THT",WP7113QBC/D,754-1489-ND,"Main(LED2)",1,5
+"Green LED 5mm THT",WP7113GD,754-1603-ND,"Daughter(LED3)",1,5
+"Blue LED 5mm THT",WP7113QBC/D,754-1489-ND,"Daughter(LED4)",1,5
+"Red LED 5mm THT",WP7113ID,754-1264-ND,"Daughter(LED5)",1,5
+--- FUSE ---,,,,,
+"Fuse Clip PCB Mount 5x20mm",01000056Z,F3784-ND,"Main(F1) - need 2 clips per holder",2,10
+"3A 250V 5x20mm Glass Fuse",0215003.MXP,F2761-ND,"Main(F1)",1,5
+--- CONNECTORS ---,,,,,
+"2x20 Female Pin Socket 2.54mm (RPi HAT)",PPPC202LFBN-RC,S7057-ND,"Main(J1)",1,5
+"Molex Micro-Fit 3.0 2x4 Vertical Header",43045-0812,WM1785-ND,"Main(J2) + Daughter(J6)",2,10
+"1x06 Male Pin Header 2.54mm",PREC006SAAN-RC,S1011EC-06-ND,"Main(J3)",1,5
+"Phoenix MKDS 1.5/3-5.08 Screw Terminal 3-pos",1715734,277-1667-ND,"Main(J4)",1,5
+"Phoenix MKDS 1.5/2-5.08 Screw Terminal 2-pos",1715721,277-1651-ND,"Main(J5)",1,5
+"1x02 Male Pin Header 2.54mm",PREC002SAAN-RC,S1011EC-02-ND,"Main(J6 JP1)",2,10
+"1x04 Male Pin Header 2.54mm",PREC004SAAN-RC,S1011EC-04-ND,"Main(J7)",1,5
+"Jumper Shunt 2.54mm",STC02SYAN,S9001-ND,"Main(JP1)",1,5
+--- BUTTONS (Daughter Board) ---,,,,,
+"6mm Tactile Push Button THT",PTS645SM43SMTR92LFS,CKN9085CT-ND,"Daughter(SW1 SW2 SW3)",3,15
+--- HARNESS PARTS ---,,,,,
+"Molex Micro-Fit 3.0 2x4 Receptacle Housing",43025-0800,WM2014-ND,"Harness (2 per cable)",2,10
+"Molex Micro-Fit 3.0 Female Crimp Terminal",43030-0007,WM1142CT-ND,"Harness (8 per housing x2)",16,80

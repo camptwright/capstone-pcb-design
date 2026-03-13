@@ -1,0 +1,12 @@
+### Footprint positions - created on 2026-03-09T20:57:05-0500 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+LED3      LED       LED_D5.0mm          94.4600   -50.5000    0.0000  top
+LED4      LED       LED_D5.0mm          94.2250   -59.5000    0.0000  top
+LED5      LED       LED_D5.0mm          94.2250   -68.5000    0.0000  top
+SW1       SW_Push   SW_PUSH_6mm_H5mm    75.0000   -38.5000    0.0000  top
+SW2       SW_Push   SW_PUSH_6mm_H5mm    75.0000   -51.0000    0.0000  top
+SW3       SW_Push   SW_PUSH_6mm_H5mm    75.0000   -64.0000    0.0000  top
+## End

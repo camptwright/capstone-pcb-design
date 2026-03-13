@@ -1,0 +1,16 @@
+### Footprint positions - created on 2026-03-09T20:57:05-0500 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                                                    PosX       PosY       Rot  Side
+C12       100n                 C_0805_2012Metric                                       86.0000   -39.0000  180.0000  bottom
+C13       100n                 C_0805_2012Metric                                       85.5500   -50.5000  180.0000  bottom
+C14       100n                 C_0805_2012Metric                                       85.5500   -55.5000  180.0000  bottom
+J6        Conn_02x04_Odd_Even  Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical   102.5000   -38.0000  180.0000  bottom
+R5        330                  R_0805_2012Metric                                      101.5875   -51.0000  180.0000  bottom
+R6        330                  R_0805_2012Metric                                      101.5875   -60.5000  180.0000  bottom
+R7        330                  R_0805_2012Metric                                      101.5875   -69.0000  180.0000  bottom
+R8        10k                  R_0805_2012Metric                                       86.0000   -43.5000  180.0000  bottom
+R9        10k                  R_0805_2012Metric                                       85.9125   -64.0000  180.0000  bottom
+R10       10k                  R_0805_2012Metric                                       86.0000   -68.5000  180.0000  bottom
+## End
